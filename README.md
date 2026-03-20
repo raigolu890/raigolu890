@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Golu Ray  
+## Hi there 👋, I'm Golu Rai
 
 💻 **Aspiring Developer | Tech Enthusiast | Problem Solver**  
 
@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on: **Open Source & AI Projects**  
 - 🤔 I’m looking for help with: **Advanced AI models & real-world applications**  
 - 💬 Ask me about: **Programming, AI, GitHub, Tech**  
-- 📫 How to reach me: **your-email@example.com**  
+- 📫 How to reach me: **raygolu890@gmail.com**  
 - ⚡ Fun fact: **I turn coffee ☕ into code 💻**  
 
 ---
