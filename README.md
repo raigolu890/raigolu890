@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Golu Ray 👋</h1>
+<h1 align="center">Hi there, I'm Golu Rai 👋</h1>
 
 <p align="center">
   <em>Aspiring Developer &nbsp;·&nbsp; Tech Enthusiast &nbsp;·&nbsp; Problem Solver</em>
@@ -17,7 +17,7 @@
 - 👯 Looking to collaborate on **Open Source & AI Projects**
 - 🤔 Looking for help with **Advanced AI models & real-world applications**
 - 💬 Ask me about **Programming, AI, GitHub, Tech**
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **raygolu890@gmail.com**
 - ⚡ Fun fact: I turn coffee ☕ into code 💻
 
 ---
@@ -67,8 +67,7 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | 🤖 [AI Food Wastage Detection](https://github.com/raigolu890) | Detects and reduces food wastage using AI/ML | Python, ML |
-| 🌐 [Portfolio Website](https://github.com/raigolu890) | Personal portfolio showcasing my work | React, HTML, CSS |
-| 📊 [Data Analysis Projects](https://github.com/raigolu890) | Exploratory data analysis and visualisations | Python, Pandas |
+
 
 ---
 
@@ -83,7 +82,7 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   &nbsp;
-  <a href="mailto:your-email@example.com">
+  <a href="raygolu890@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
