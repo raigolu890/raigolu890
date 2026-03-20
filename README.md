@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Golu+Rai;Aspiring+Developer;AI+Enthusiast+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there+👋+I'm+Golu+Rai" alt="Typing SVG" />
 </h1>
-
 ## 🚀 About Me
 
 - 🔭 Currently working on **AI-based projects & web development**
